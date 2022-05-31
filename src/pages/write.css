@@ -1,0 +1,42 @@
+
+.write{
+    padding-top: 50px;
+}
+
+.writeForm{
+    position: relative;    
+}
+
+.writeFormGroup{
+    margin-left: 150px;
+
+}
+
+.writeInput{
+    font-size: 30px;
+    border: none;
+    padding: 20px;
+    width: 70vw;
+}
+
+.writeInput:focus{
+    outline: none;
+}
+
+.writeComment{
+    font-size:20px ;
+    height: 100vh;
+}
+
+.writeSubmit{
+    position: absolute;
+    top:145px;
+    right:60px;
+    color: white;
+    background-color: teal;
+    padding: 10px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    font-size: 16px;
+}
